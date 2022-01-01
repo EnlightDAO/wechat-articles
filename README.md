@@ -2,6 +2,8 @@
 description: >-
   The First Education DAO in China. Committed to becoming the best #Web3
   university town in the Chinese community.
+cover: .gitbook/assets/article-banner-640 (1).webp
+coverY: 0
 ---
 
 # ✨ EnlightDAO
