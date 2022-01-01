@@ -4,7 +4,7 @@ description: WoKough EnlightDAO 2021-09-30 18:00
 
 # 元宇宙：潘多拉的魔盒已经开启（人类的未来真是元宇宙承载的虚拟世界吗？）
 
-![](../.gitbook/assets/05-01-640.png)
+![](.gitbook/assets/05-01-640.png)
 
 2021年，元宇宙火了。\
 不仅引发科技界和投资界的广泛关注，各大知识平台也争相发文普及，好像不出个解读就跟不上潮流。
@@ -101,7 +101,7 @@ VR游戏可能是现阶段人们对元宇宙最直观的感受，这里就不再
 这一切并非危言耸听，对比以前和现在人们花在智能终端，花在网络空间的时间就可见一斑，毕竟**未来就是过去的现在**。\
 
 
-![](../.gitbook/assets/05-1-640.webp)
+![](.gitbook/assets/05-1-640.webp)
 
 ### **六、人类拥抱虚拟的元宇宙是一种逃避吗？**
 
@@ -143,13 +143,13 @@ AI一定会反噬人类吗？我觉得这个问题可以拆成两个。
 **何去何从，拭目以待。**\
 
 
-****![](../.gitbook/assets/enlightDAO\_SPv-Odc1\_400x400.jpg)**EnlightDAO**EnlightDAO 是一个社区驱动的、共创和共享的分布式自治社区。我们希望通过自由、坦诚、精进和共生的价值观，共同建设新一代基于区块链的学习社区和 DAO 商业基础设施。共创未来，共享价值！
+****![](.gitbook/assets/enlightDAO\_SPv-Odc1\_400x400.jpg)**EnlightDAO**EnlightDAO 是一个社区驱动的、共创和共享的分布式自治社区。我们希望通过自由、坦诚、精进和共生的价值观，共同建设新一代基于区块链的学习社区和 DAO 商业基础设施。共创未来，共享价值！
 
-![](../.gitbook/assets/scan-to-follow.png)
+![](.gitbook/assets/scan-to-follow.png)
 
 👆 关注 EnlightDAO 公众号
 
-![](../.gitbook/assets/0-lbox-scan-640.webp)
+![](.gitbook/assets/0-lbox-scan-640.webp)
 
 👆或添加社区助理微信, 回复”入群“\
 

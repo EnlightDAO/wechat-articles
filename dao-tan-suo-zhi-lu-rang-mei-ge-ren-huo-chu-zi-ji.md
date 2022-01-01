@@ -86,7 +86,7 @@ DAO（Decentralized Autonomous Organization），作为区块链技术应用的�
 今年，我想抛弃一些刻板标签，突破一些束缚和枷锁，重新出发，在寻找 DAO 的路上、寻找自己。有幸，遇见一群同行的小伙伴、大伙伴们。\
 
 
-![](../.gitbook/assets/04-640.webp)
+![](.gitbook/assets/04-640.webp)
 
 
 
@@ -94,9 +94,9 @@ DAO（Decentralized Autonomous Organization），作为区块链技术应用的�
 
 
 
-****![](../.gitbook/assets/enlightDAO\_SPv-Odc1\_400x400.jpg)**EnlightDAO**EnlightDAO 是一个社区驱动的、共创和共享的分布式自治社区。我们希望通过自由、坦诚、精进和共生的价值观，共同建设新一代基于区块链的学习社区和 DAO 商业基础设施。共创未来，共享价值！
+****![](.gitbook/assets/enlightDAO\_SPv-Odc1\_400x400.jpg)**EnlightDAO**EnlightDAO 是一个社区驱动的、共创和共享的分布式自治社区。我们希望通过自由、坦诚、精进和共生的价值观，共同建设新一代基于区块链的学习社区和 DAO 商业基础设施。共创未来，共享价值！
 
-![](../.gitbook/assets/scan-to-follow.png)
+![](.gitbook/assets/scan-to-follow.png)
 
 👆 关注 EnlightDAO 公众号
 

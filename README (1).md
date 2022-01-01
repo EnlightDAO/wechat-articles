@@ -1,6 +1,6 @@
 ---
 description: https://linktr.ee/enlightdao
-cover: ../.gitbook/assets/article-banner-640.webp
+cover: .gitbook/assets/article-banner-640.webp
 coverY: 0
 ---
 
@@ -15,7 +15,7 @@ coverY: 0
 
 
 
-![](../.gitbook/assets/enlightDAO\_SPv-Odc1\_400x400.jpg)**EnlightDAO** 是一个社区驱动的、共创和共享的分布式自治社区。我们希望通过自由、坦诚、精进和共生的价值观，共同建设新一代基于区块链的学习社区和 DAO 商业基础设施。共创未来，共享价值！
+![](.gitbook/assets/enlightDAO\_SPv-Odc1\_400x400.jpg)**EnlightDAO** 是一个社区驱动的、共创和共享的分布式自治社区。我们希望通过自由、坦诚、精进和共生的价值观，共同建设新一代基于区块链的学习社区和 DAO 商业基础设施。共创未来，共享价值！
 
 🌟EnlightDAO（微光社区）是国内首个Education DAO
 
@@ -33,7 +33,7 @@ coverY: 0
 * Notion：[https://humdrum-cashew-1cf.notion.site/EnlightDAO-691fade5937d4887abbf846bcf9b4295](https://humdrum-cashew-1cf.notion.site/EnlightDAO-691fade5937d4887abbf846bcf9b4295)
 * 公众号：EnlightDAO
 
-![](../.gitbook/assets/scan-to-follow.png)
+![](.gitbook/assets/scan-to-follow.png)
 
 👆 关注 EnlightDAO 公众号
 
