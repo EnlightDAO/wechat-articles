@@ -27,7 +27,7 @@ DAO如何为新手搭建平滑的学习曲线，使其成为核心贡献者？
 \
 让外圈成为内圈的平滑学习曲线是什么？
 
-![](https://mmbiz.qpic.cn/mmbiz\_png/h3KrqkcKTVfKZUNDFibT1zLruxyl964VzSRL264pyjUBwqibZiaWXLmtlF8ic69kmfYyETicKp9rFILPFAZFLlzG78w/640?wx\_fmt=png\&tp=webp\&wxfrom=5\&wx\_lazy=1\&wx\_co=1)
+{% embed url="https://twitter.com/divine_economy/status/1443257519661592584" %}
 
 ### **2.奖励问题**
 
@@ -41,7 +41,7 @@ DAO需要游戏化来建立留存。**奖励工作的即时产出可以留住用
 
 如何建立在线社区，而社区不是权益之计或痛苦的绑定？
 
-![](https://mmbiz.qpic.cn/mmbiz\_png/h3KrqkcKTVfKZUNDFibT1zLruxyl964VzQLp8bIUwxycPyicIUZDUwapgVQGfvUQaW6Pjn6rRq3c1QtKJ0ZVNO5Q/640?wx\_fmt=png\&tp=webp\&wxfrom=5\&wx\_lazy=1\&wx\_co=1)
+{% embed url="https://twitter.com/divine_economy/status/1443257521465069568" %}
 
 ### **3.包容性问题**
 
@@ -56,7 +56,7 @@ DAO让任何人都可以与企业竞争。**代码取代了合规性；代币取
 
 **让任何人竞争，是否意味着让任何人都不竞争？**
 
-![](https://mmbiz.qpic.cn/mmbiz\_png/h3KrqkcKTVfKZUNDFibT1zLruxyl964VzkPZd1wh0oVdNibibHwJLWtPrz8ShXgWz4w369cfALVCoUXVAiav7VQBXA/640?wx\_fmt=png\&tp=webp\&wxfrom=5\&wx\_lazy=1\&wx\_co=1)
+{% embed url="https://twitter.com/divine_economy/status/1443257523109257224" %}
 
 ### **4.积极性问题**
 
@@ -70,7 +70,7 @@ DAO让任何人都可以与企业竞争。**代码取代了合规性；代币取
 
 如何确保金钱不是关系的最小公倍数？
 
-![](https://mmbiz.qpic.cn/mmbiz\_png/h3KrqkcKTVfKZUNDFibT1zLruxyl964VzOiajjl8zniabib4MQUdly1SeY4nLG6H2OuXfTtgqxYVnoRYRicabItB1dQ/640?wx\_fmt=png\&tp=webp\&wxfrom=5\&wx\_lazy=1\&wx\_co=1)
+{% embed url="https://twitter.com/divine_economy/status/1443257524505956356" %}
 
 ### **5.激励问题**
 
@@ -87,7 +87,7 @@ DAO让任何人都可以与企业竞争。**代码取代了合规性；代币取
 
 那么，合理的激励水平是否取决于中心化领导的程度？
 
-![](https://mmbiz.qpic.cn/mmbiz\_png/h3KrqkcKTVfKZUNDFibT1zLruxyl964VzeH8uD4ibeiaZhoblxTs8iaQibtHtr3V6jUS10gglcIgOhd14Gliahn3pErA/640?wx\_fmt=png\&tp=webp\&wxfrom=5\&wx\_lazy=1\&wx\_co=1)
+{% embed url="https://twitter.com/divine_economy/status/1443257526569639936" %}
 
 ### **6. “买一个州”的问题**
 
@@ -100,7 +100,7 @@ DAO真正的创新在于，它们是我们选择加入的州——有财富、�
 
 但这也意味着它们是我们可以购买的州。那些参与的人是那些可以买入的人。
 
-![](https://mmbiz.qpic.cn/mmbiz\_png/h3KrqkcKTVfKZUNDFibT1zLruxyl964VzKANiata8Qr6uIK92l940aIvR2JHUCMr1icKoJRrTR4cSRfGcQeichmUGA/640?wx\_fmt=png\&tp=webp\&wxfrom=5\&wx\_lazy=1\&wx\_co=1)
+{% embed url="https://twitter.com/divine_economy/status/1443257528230588418" %}
 
 ### **7.利益相关者问题**
 
@@ -115,7 +115,7 @@ DAO真正的创新在于，它们是我们选择加入的州——有财富、�
 
 承诺每个人的所得不同，本身是否就是一种激励？
 
-![](https://mmbiz.qpic.cn/mmbiz\_png/h3KrqkcKTVfKZUNDFibT1zLruxyl964Vzmx4zsgTC19mLGWk6aMibAZBzgtkW555wVf6bvmO6YndhOOqTHx2wGMA/640?wx\_fmt=png\&tp=webp\&wxfrom=5\&wx\_lazy=1\&wx\_co=1)
+{% embed url="https://twitter.com/divine_economy/status/1443257529660813318" %}
 
 ### **8.收入问题**
 
@@ -134,7 +134,7 @@ DAO是否需要找到其他的盈利方式，或者他们需要从转售中获�
 
 **提供服务的DAO应该从转售中获得一部分收益吗？**
 
-![](https://mmbiz.qpic.cn/mmbiz\_png/h3KrqkcKTVfKZUNDFibT1zLruxyl964VzIBJVibYwdHIiaUHOFLDc5tMBj2IWCTibUcbpWa7K4qOw0P8LqEZE3J0sA/640?wx\_fmt=png\&tp=webp\&wxfrom=5\&wx\_lazy=1\&wx\_co=1)
+{% embed url="https://twitter.com/divine_economy/status/1443257531233718279" %}
 
 ### **9.竞争问题**
 
@@ -150,7 +150,7 @@ DAO之间的连接就像链式栅栏中的链子。可组合性、资金交易�
 
 更多的竞争会有帮助，还是导致零和博弈？
 
-![](https://mmbiz.qpic.cn/mmbiz\_png/h3KrqkcKTVfKZUNDFibT1zLruxyl964VzS2IaKOHCfc8aaltxDToxHYH4UZb3fYm2Lt13AV2v3BRaGjCrMykYxA/640?wx\_fmt=png\&tp=webp\&wxfrom=5\&wx\_lazy=1\&wx\_co=1)
+{% embed url="https://twitter.com/divine_economy/status/1443257532596772873" %}
 
 ### **10.可视化问题**
 
@@ -163,7 +163,7 @@ DAO之间的连接就像链式栅栏中的链子。可组合性、资金交易�
 通过看到DAO成员如何相互奖励，我们可以克服偏见、看到资金机会在哪里。\
 **但一个数据公开的世界同时也是一个被监视的世界**：我们改变自己的行为，包括薪资报酬，来安抚争抢得最厉害的的声音。
 
-![](https://mmbiz.qpic.cn/mmbiz\_png/h3KrqkcKTVfKZUNDFibT1zLruxyl964VzGhROLX0KMtRMXk5AZia2qUH0N4HT7cibCzdzH5TwJn2fBDOHt3nh7vBw/640?wx\_fmt=png\&tp=webp\&wxfrom=5\&wx\_lazy=1\&wx\_co=1)
+{% embed url="https://twitter.com/divine_economy/status/1443257533980979209" %}
 
 ### **11.薪资问题**
 
@@ -181,9 +181,7 @@ DAO应该集体决定彼此的薪资——他们最有能力了解彼此的贡�
 
 所以，谁来决定薪资，何时决定？
 
-
-
-![](https://mmbiz.qpic.cn/mmbiz\_png/h3KrqkcKTVfKZUNDFibT1zLruxyl964VzkicQdlhRZTRiaRjgCKzCblibkdJ6VaOsk7ykrxLtdhibWicG9Pze6LrPsDg/640?wx\_fmt=png\&tp=webp\&wxfrom=5\&wx\_lazy=1\&wx\_co=1)
+{% embed url="https://twitter.com/divine_economy/status/1443257535360905227" %}
 
 ### 12. 氛围问题
 
@@ -193,8 +191,6 @@ DAO应该集体决定彼此的薪资——他们最有能力了解彼此的贡�
 
 我们如何在线上通过激励驱动模型创造氛围？
 
-
-
 我把这个问题放到了最后，它也是最基本的DAO问题。
 
 了解范围对于强大的社区来说是至关重要的，**当人们仅仅为了钱而留在DAO时，气氛就会受到影响。**
@@ -203,10 +199,10 @@ DAO应该集体决定彼此的薪资——他们最有能力了解彼此的贡�
 
 我们如何在线上建造氛围？
 
+{% embed url="https://twitter.com/divine_economy/status/1443257537218990084" %}
+
 \
 
-
-![](https://mmbiz.qpic.cn/mmbiz\_png/h3KrqkcKTVfKZUNDFibT1zLruxyl964VzPR5nOccbIIicufHT5X0CIN7AerZGsrExCRsWSgup2Mx4vEoQWvVr2Ew/640?wx\_fmt=png\&tp=webp\&wxfrom=5\&wx\_lazy=1\&wx\_co=1)
 
 **EnlightDAO** 是一个社区驱动的、共创和共享的分布式自治社区。我们希望通过自由、坦诚、精进和共生的价值观，共同建设新一代基于区块链的学习社区和 DAO 商业基础设施。共创未来，共享价值！​![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5fDzcwwFzxQbLE801lZT%2Fuploads%2FCkp0VR6koas9Zxko3E9m%2Fscan-to-follow.png?alt=media\&token=4d044763-a4a5-4fcd-8611-56282f391dcf)
 
