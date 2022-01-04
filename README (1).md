@@ -14,6 +14,7 @@ coverY: 0
 * [元宇宙：潘多拉的魔盒已经开启（人类的未来真是元宇宙承载的虚拟世界吗？）](https://app.gitbook.com/s/5fDzcwwFzxQbLE801lZT/c/30uhvzC8FH0Lq9v8h7tg/yuan-yu-zhou-pan-duo-la-de-mo-he-yi-jing-kai-qi-ren-lei-de-wei-lai-zhen-shi-yuan-yu-zhou-cheng-zai-d)
 * [12个DAO问题：建设DAO时必须要思考的关键挑战](wei-xin-gong-zhong-hao-wen-zhang/12-ge-dao-wen-ti-jian-she-dao-shi-bi-xu-yao-si-kao-de-guan-jian-tiao-zhan.md)
 * [Nansen长文：加密世界的下一个宏大篇章 DAO 已经到来](wei-xin-gong-zhong-hao-wen-zhang/nansen-chang-wen-jia-mi-shi-jie-de-xia-yi-ge-hong-da-pian-zhang-dao-yi-jing-dao-lai.md)
+* [DAO是百年未有之管理变革](https://app.gitbook.com/s/5fDzcwwFzxQbLE801lZT/c/X0tpSqANqAdDeDqSTpMR/wei-xin-gong-zhong-hao-wen-zhang/dao-shi-bai-nian-wei-you-zhi-guan-li-bian-ge)
 
 
 
